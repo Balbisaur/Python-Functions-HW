@@ -20,4 +20,4 @@ while True:
     break
 #I was able to make the user add to the shopping list but only 3 items, not sure what I can do to raise the limit
 #I was able to add the remove feature... but I am running into a problem. whenever I remove a certain item from the shopping list,
-# it removes the last item instead of the one I chose.
+# it removes the last item instead of the one I chose. #edit : I was forgetting the '' when removing the item...
